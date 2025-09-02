@@ -1,0 +1,7 @@
+# IDE configuration files
+.vscode/
+.idea/
+
+# Python
+.pytest_cache/
+__pycache__
